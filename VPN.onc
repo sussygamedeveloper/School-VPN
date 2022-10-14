@@ -8,12 +8,12 @@
       "NameServersConfigType": "Static",
       "StaticIPConfig": {
         "NameServers": [
-          "5.189.139.56"
+          "161.97.156.62"
         ]
       },
       "VPN": {
         "AutoConnect": true,
-        "Host": "5.189.139.56",
+        "Host": "161.97.156.62",
         "IPsec": {
           "IKEVersion": 1,
           "AuthenticationType": "PSK",
